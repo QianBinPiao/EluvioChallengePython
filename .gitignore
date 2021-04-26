@@ -4,6 +4,6 @@ RollingHash.py
 RollingHashBinary.py
 STree.py
 SuffixTree.py
-sample/
+
 venv/
 .idea/
